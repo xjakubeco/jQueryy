@@ -1,0 +1,39 @@
+div {
+    border: solid #4285f4;
+    font-weight: bold;
+    width: 230px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace bold;
+    font-size: 25px;
+    color: white;
+    
+  }
+  .red{
+    background: #E67676;
+    height: 30px;
+    padding: 30px;
+    margin: 0px;
+    
+    
+    
+  }
+  .yellow{
+    background: #F2F062;
+    height: 30px;
+    padding: 30px;
+    margin: 0px;
+    
+  }
+  .blue{
+    background: #A9E6E6;
+    height: 30px;
+    padding: 30px;
+    margin: 0px;
+    
+  }
+  .bluer{
+    background: #7692E4;
+    height: 30px;
+    padding: 30px;
+    margin: 0px; 
+  }
